@@ -2,6 +2,11 @@ import java.util.Scanner;
 
 public class PassFail {
     public static void main(String[] args){
+
+        /*
+        *Valid grades average calculated
+        * Pass or fail condition detected
+         */
         int math,physics,chemistry, turkish, history,music,lessonNumber = 0,lessons = 0;
         Scanner input =new Scanner(System.in);
         System.out.println("Enter math grade");
