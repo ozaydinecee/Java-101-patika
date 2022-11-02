@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Exponent {
     public static void main(String[] args){
     /*
-    * Takes number and its exponential from user as a input.
+    * Takes number and its exponential from user as an input.
     * Calculates result as a "sum" and prints
     * */
     int sum=1;
