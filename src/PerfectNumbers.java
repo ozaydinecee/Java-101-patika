@@ -2,6 +2,12 @@ import java.util.Scanner;
 
 public class PerfectNumbers {
     public static void main(String[] args){
+        /**
+         * @author: Ece Özaydın
+         * @date: 4.11.2022
+         * @param: num; indicates bound
+         *         perfectNumber; sum of the numbers which divides the num fully.
+         * */
         int num;
         Scanner input =new Scanner(System.in);
         System.out.println("Enter number:");
