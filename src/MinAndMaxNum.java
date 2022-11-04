@@ -13,7 +13,7 @@ public class MinAndMaxNum {
         int num,biggest=0,smallest=9999;
         Scanner input = new Scanner(System.in);
         for(int i=0;i<5;i++) {
-            System.out.println("Enter year:");
+            System.out.println("Enter a number:");
             num = input.nextInt();
             if(num>biggest){
                 biggest=num;
