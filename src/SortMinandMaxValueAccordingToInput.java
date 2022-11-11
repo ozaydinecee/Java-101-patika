@@ -21,8 +21,8 @@ public class SortMinandMaxValueAccordingToInput {
             }
         }
 
-        System.out.println("Minimum Değer " + min);
-        System.out.println("Maximum Değer " + max);
+        System.out.println("Minimum value " + min);
+        System.out.println("Maximum value " + max);
 
     }
 }
