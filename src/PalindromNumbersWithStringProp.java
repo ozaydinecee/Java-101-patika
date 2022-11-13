@@ -24,5 +24,6 @@ public class PalindromNumbersWithStringProp {
 
     public static void main(String[] args) {
         System.out.println(isPalindrome("abba"));
+
     }
 }
