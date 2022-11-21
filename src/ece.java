@@ -2,14 +2,10 @@ import java.util.Scanner;
 
 public class ece {
     public static void main(String[] args) {
-        recursiveMethod(4);
+        int i=0;
+        i=i++ +i;
+        System.out.println(i);
     }
 
-    static void recursiveMethod(int num) {
-        num--;
-        if (num == 0)
-            return;
-        System.out.print(num + ",");
-        recursiveMethod(num);
-    }
+
 }
