@@ -5,4 +5,4 @@ https://app.patika.dev/ozaydineceez
 
 
 
-![image](https://user-images.githubusercontent.com/77552205/203023452-1ed3822f-5755-4552-9739-acea9bb99157.png)
+![image](https://user-images.githubusercontent.com/77552205/203033090-0d6fc3af-e80a-44ca-8802-28b9ded39af6.png)
