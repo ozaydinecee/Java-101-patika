@@ -4,12 +4,12 @@ https://app.patika.dev/ozaydineceez
 
 
 
-
-![image](https://user-images.githubusercontent.com/77552205/203133616-c9138b2a-0c62-4b1f-8109-6849b4ffbd76.png)
-
+![image](https://user-images.githubusercontent.com/77552205/203143336-1ecc8364-2c7d-4118-86f2-011fa2f6566b.png)
 
 
-![image](https://user-images.githubusercontent.com/77552205/203133663-e7a8d2b9-7949-4aff-a457-272d0a8fe763.png)
+
+![image](https://user-images.githubusercontent.com/77552205/203143373-d7fecd85-bd17-4bb9-b5d7-0d40e5653f5f.png)
+
 
 
 
